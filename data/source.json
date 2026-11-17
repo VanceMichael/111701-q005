@@ -1,0 +1,8 @@
+{
+  "source": "sample-5",
+  "observedAt": "2026-11-17T08:00:00.000Z",
+  "items": [
+    {"id": "5-A", "label": "展馆团体活动名额样例甲", "state": "active", "revision": 1},
+    {"id": "5-B", "label": "展馆团体活动名额样例乙", "state": "pending", "revision": 1}
+  ]
+}
